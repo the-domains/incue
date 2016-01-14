@@ -1,7 +1,7 @@
 name: Incue
 favicon: null
-layout_spectrum: 0.9451702812220901
-typography_spectrum: 0.9333553274627775
+layout_spectrum: 0.62532
+typography_spectrum: 0.4711
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#18122c'
+    - '#ce122c'
+    - '#72122c'
+    - '#aaaaaa'
+    - '#807d7e'
   brandStrength: 0.36093396903015673
   lightness: 0.5596615036483854
   saturation: 0.5230719668325037
